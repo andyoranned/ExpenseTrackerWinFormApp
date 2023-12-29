@@ -1,0 +1,12 @@
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\bin\Debug\BudgetApp.exe.config
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\bin\Debug\BudgetApp.exe
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\bin\Debug\BudgetApp.pdb
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\obj\Debug\BudgetApp.csproj.AssemblyReference.cache
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\obj\Debug\BudgetApp.HomeForm.resources
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\obj\Debug\BudgetApp.InputForm.resources
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\obj\Debug\BudgetApp.Properties.Resources.resources
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\obj\Debug\BudgetApp.csproj.GenerateResource.cache
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\obj\Debug\BudgetApp.csproj.CoreCompileInputs.cache
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\obj\Debug\BudgetApp.exe
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\obj\Debug\BudgetApp.pdb
+C:\Users\mosul\source\repos\test\tryagain\again\andagain\BudgetApp\obj\Debug\BudgetApp.ChartForm.resources
